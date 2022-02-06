@@ -1,0 +1,3 @@
+01. data yang di simpan di komputer sendiri
+02. data berukuran kecil yang di buat website untuk menyimpan beberapa data user seperti login account dan lain-lain
+03. localstorage data akan tetap ada walaupun website di tutup, sessionStorage hanya menyimpan data selama website masih terbuka
